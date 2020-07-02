@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreItAirplanes", "CoreItAirplanes\CoreItAirplanes.csproj", "{67AD773C-5350-46B5-A53A-7A8AC30B79FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreItAirplanes.Test", "CoreItAirplanes.Test\CoreItAirplanes.Test.csproj", "{1FDC6409-F2A6-43B7-B464-65A9B4A39D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AD773C-5350-46B5-A53A-7A8AC30B79FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AD773C-5350-46B5-A53A-7A8AC30B79FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AD773C-5350-46B5-A53A-7A8AC30B79FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AD773C-5350-46B5-A53A-7A8AC30B79FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDC6409-F2A6-43B7-B464-65A9B4A39D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDC6409-F2A6-43B7-B464-65A9B4A39D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDC6409-F2A6-43B7-B464-65A9B4A39D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDC6409-F2A6-43B7-B464-65A9B4A39D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CD90E2-24C4-48F6-AA1C-A4C51B0B3CF6}
+	EndGlobalSection
+EndGlobal

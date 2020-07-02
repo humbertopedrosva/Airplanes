@@ -1,0 +1,14 @@
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\obj\Debug\netcoreapp3.1\CoreItAirplanes.AssemblyInfoInputs.cache
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\obj\Debug\netcoreapp3.1\CoreItAirplanes.AssemblyInfo.cs
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\CoreItAirplanes.exe
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\CoreItAirplanes.deps.json
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\CoreItAirplanes.runtimeconfig.json
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\CoreItAirplanes.runtimeconfig.dev.json
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\CoreItAirplanes.dll
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\CoreItAirplanes.pdb
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\obj\Debug\netcoreapp3.1\CoreItAirplanes.dll
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\obj\Debug\netcoreapp3.1\CoreItAirplanes.pdb
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\obj\Debug\netcoreapp3.1\CoreItAirplanes.csproj.CopyComplete
+C:\Users\humberto.silva\Desktop\testin\CoreItAirplanes\CoreItAirplanes\obj\Debug\netcoreapp3.1\CoreItAirplanes.csprojAssemblyReference.cache
